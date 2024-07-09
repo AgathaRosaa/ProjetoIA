@@ -5,7 +5,9 @@ Um simples projeto para testar as ferramentas de IA como uma facilitadora das ta
 
 ## 🤖 Tecnologias Utilizadas
 Gama: usado para criar o slide "A importância da IA no mundo dos negócios";
+
 Chatgpt: para auxiliar no texto que será usado no podcast "Descomplicando Redes: Tecnologia para Iniciantes";
+
 ElevenLabs: para transformar o texto em áudio;
 
 
